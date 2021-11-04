@@ -49,7 +49,7 @@ if __name__ == '__main__':
     b = [1,2,3]
     a = set("HELLO WORLD")
     print(a)
-    a.pop()
+
 
     print("login")
 
