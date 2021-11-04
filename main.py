@@ -22,6 +22,7 @@ if __name__ == '__main__':
         }
         ]
     }
+    print("dasdas")
 
     with open("file.json", "w") as file:
         file.write(json.dumps(cars))
